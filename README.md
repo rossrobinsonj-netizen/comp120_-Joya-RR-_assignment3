@@ -11,7 +11,8 @@ It is created as part of Lab Assignment 3 for COMP120 – Software Engineering F
 ## Features
 - Add a new task
 - View a list of tasks
-
+- Delete existing tasks
+  
 ---
 
 ## Requirements
@@ -31,6 +32,11 @@ It is created as part of Lab Assignment 3 for COMP120 – Software Engineering F
 2. Click the **Add Task** button.
 3. The task will appear immediately in the task list.
 4. Repeat the process to add more tasks.
+
+### Delete a Task
+1. Locate the task you want to remove.
+2. Click the **Delete** button next to that task.
+3. The task will be removed immediately from the list.
 
 ---
 
